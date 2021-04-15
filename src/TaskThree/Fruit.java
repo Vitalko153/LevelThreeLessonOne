@@ -1,4 +1,4 @@
-package TaskTwo;
+package TaskThree;
 
 public class Fruit {
 }
